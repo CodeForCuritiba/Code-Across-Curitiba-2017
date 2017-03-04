@@ -106,3 +106,8 @@ Base de dados do sistema Informatizado "E-saúde". Este sistema viabiliza o regi
 Base de dados do sistema Informatizado "E-saúde". Este sistema viabiliza o registro dos atendimentos prestados pela Secretaria Municipal de Saúde de Curitiba em sua rede de atenção. Esta rede é composta por Unidades Básicas de Saúde, Unidades de Pronto Atendimento, Centros de Especialidades Médicas e Odontológicas, entre outros. Os dados disponibilizados para consulta referem-se ao perfil de atendimento dos profissionais de odontologia da rede municipal de saúde.
 
 - [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/SESPAOdontologico/
+
+### Sistema E-Saude - Perfil de atendimento outros profissionais de Nível Superior nas Unidades Municipa
+Base de dados do sistema Informatizado "E-saúde". Este sistema viabiliza o registro dos atendimentos prestados pela Secretaria Municipal de Saúde de Curitiba em sua rede de atenção. Esta rede é composta por Unidades Básicas de Saúde, Unidades de Pronto Atendimento, Centros de Especialidades Médicas e Odontológicas, entre outros. Os dados disponibilizados para consulta referem-se ao perfil de atendimento dos profissionais de nível superior da rede municipal de saúde.
+
+- [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/SESPAOutrosProfissionaisDeNivelSuperior/)
