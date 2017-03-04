@@ -121,3 +121,8 @@ O SIGMU tem o intuito de subsidiar o planejamento, a avaliação e a tomada de d
 Relação de dados financeiros e funcionais do mês atual, de servidores ativos de toda a municipalidade, compreendendo as entidades sob o mesmo regime jurídico único (exclui-se as entidades celetistas).
 
 - [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/ServidoresCargosEncargos/)
+
+### SiGesGuarda
+Base contendo os dados das ocorrências atendidas pela Guarda Municipal de Curitiba.
+
+- [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/Sigesguarda/)
