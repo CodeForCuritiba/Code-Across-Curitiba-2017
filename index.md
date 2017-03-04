@@ -131,3 +131,8 @@ Base contendo os dados das ocorrências atendidas pela Guarda Municipal de Curit
 Dados do transporte coletivo de Curitiba, disponibilizado via WebService contendo informações como: Arquivo GTFS, Linhas, Pontos, Itinerários, Posição dos Veículos e Horários de Tabelas.
 
 - [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/TransporteColetivo/)
+
+### Unidades de Atendimento de Curitiba - Ativas
+Base com as unidades de atendimento de uso público, ativas de Curitiba. Inclui todas as unidades municipais, bem como unidades estaduais, federais e particulares que apresentam maior influência no espaço urbano. Além da identificação, o arquivo apresenta dados de contato e localização, com coordenadas no formato Geográfica/SIRGAS (latitude e longitude). Esses dados são originários do Sistema de Equipamentos Urbanos de Curitiba (SEUC).
+
+- [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/UnidadesAtendimentoCuritiba/)
