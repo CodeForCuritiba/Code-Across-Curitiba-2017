@@ -107,7 +107,12 @@ Base de dados do sistema Informatizado "E-saúde". Este sistema viabiliza o regi
 
 - [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/SESPAOdontologico/)
 
-### Sistema E-Saude - Perfil de atendimento outros profissionais de Nível Superior nas Unidades Municipa
+### Sistema E-Saude - Perfil de atendimento outros profissionais de Nível Superior nas Unidades Municipal
 Base de dados do sistema Informatizado "E-saúde". Este sistema viabiliza o registro dos atendimentos prestados pela Secretaria Municipal de Saúde de Curitiba em sua rede de atenção. Esta rede é composta por Unidades Básicas de Saúde, Unidades de Pronto Atendimento, Centros de Especialidades Médicas e Odontológicas, entre outros. Os dados disponibilizados para consulta referem-se ao perfil de atendimento dos profissionais de nível superior da rede municipal de saúde.
 
 - [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/SESPAOutrosProfissionaisDeNivelSuperior/)
+
+### Sistema Integrado de Gestão da Manutenção Urbana - SIGMU
+O SIGMU tem o intuito de subsidiar o planejamento, a avaliação e a tomada de decisões de forma rápida, segura e confiável, com qualidade e transparência dos serviços prestados. O sistema fornece os registros desde a abertura das solicitações de manutenção, nas áreas de Pavimentação, Paisagismo, Drenagem e outros serviços desenvolvidos pelos Distritos de Manutenção Urbana, sua tramitação pelas áreas responsáveis pela vistoria e execução destes, bem como sua finalização e retorno ao cidadão.
+
+- [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/SIGMU/)
