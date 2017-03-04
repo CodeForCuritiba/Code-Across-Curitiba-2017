@@ -116,3 +116,8 @@ Base de dados do sistema Informatizado "E-saúde". Este sistema viabiliza o regi
 O SIGMU tem o intuito de subsidiar o planejamento, a avaliação e a tomada de decisões de forma rápida, segura e confiável, com qualidade e transparência dos serviços prestados. O sistema fornece os registros desde a abertura das solicitações de manutenção, nas áreas de Pavimentação, Paisagismo, Drenagem e outros serviços desenvolvidos pelos Distritos de Manutenção Urbana, sua tramitação pelas áreas responsáveis pela vistoria e execução destes, bem como sua finalização e retorno ao cidadão.
 
 - [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/SIGMU/)
+
+### Relações de servidores, cargos e encargos
+Relação de dados financeiros e funcionais do mês atual, de servidores ativos de toda a municipalidade, compreendendo as entidades sob o mesmo regime jurídico único (exclui-se as entidades celetistas).
+
+- [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/ServidoresCargosEncargos/)
