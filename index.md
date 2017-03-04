@@ -91,3 +91,8 @@ Base de dados referente às entrevistas realizadas com o público que assiste à
 Cadastro dos pretendentes de moradias populares de Curitiba.
 
 - [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/PretendentesCohab/)
+
+### Sistema E-Saude - Perfil de atendimento de Enfermagem nas Unidades Municipais de Saúde de Curitiba
+Base de dados do sistema Informatizado "E-saúde". Este sistema viabiliza o registro dos atendimentos prestados pela Secretaria Municipal de Saúde de Curitiba em sua rede de atenção. Esta rede é composta por Unidades Básicas de Saúde, Unidades de Pronto Atendimento, Centros de Especialidades Médicas e Odontológicas, entre outros. Os dados disponibilizados para consulta referem-se ao perfil de atendimento dos profissionais de enfermagem da rede municipal de saúde.
+
+- [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/SESPAEnfermagem/)
