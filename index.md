@@ -126,3 +126,8 @@ Relação de dados financeiros e funcionais do mês atual, de servidores ativos 
 Base contendo os dados das ocorrências atendidas pela Guarda Municipal de Curitiba.
 
 - [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/Sigesguarda/)
+
+### Transporte Coletivo de Curitiba
+Dados do transporte coletivo de Curitiba, disponibilizado via WebService contendo informações como: Arquivo GTFS, Linhas, Pontos, Itinerários, Posição dos Veículos e Horários de Tabelas.
+
+- [Arquivos](http://dadosabertos.c3sl.ufpr.br/curitiba/TransporteColetivo/)
